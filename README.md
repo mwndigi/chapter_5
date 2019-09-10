@@ -1,3 +1,3 @@
-# Exercise in Chapter 5
+# Exercises in Chapter 5
 
 Learning JavaScript
