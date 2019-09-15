@@ -8,6 +8,6 @@
 // When defining the function, you can use a regular loop to do the actual
 // looping.
 
-let arrays = [[1, 2, 3], [4, 5], [6]];
+let arrays2 = [[1, 2, 3], [4, 5], [6]];
 
-console.log(arrays.reduce((flat, current) => flat.concat(current), []));
+console.log(arrays2.reduce((flat, current) => flat.concat(current), []));
